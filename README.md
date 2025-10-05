@@ -2,6 +2,9 @@
 
 [![Repository](https://img.shields.io/badge/repo-TapTalk_app_V1-blue)](https://github.com/Mohamed-shamel1/TapTalk_app_V1) [![Node](https://img.shields.io/badge/node-%3E%3D22.17.0-brightgreen)]() [![License](https://img.shields.io/badge/license-None-lightgrey)]()
 
+<img src="./WhatsApp%20Image%202025-08-19%20at%2006.07.24_16bb826f.jpg" width="350" />
+
+
 A modern, modular backend for a chat/messaging application (TapTalk — also referenced as SARAHAA.app). Built with Node.js, Express, and MongoDB/Mongoose. Designed to be easy to extend, swap database implementations, and integrate with OAuth, email verification, and media storage.
 
 ---
@@ -430,15 +433,6 @@ npm test
 
 Consider adding GitHub Actions for CI to run tests on PRs.
 
----
-
-## 📸 Screenshots / GIFs
-
-Placeholder for app image:
-
-![App Screenshot](./WhatsApp%20Image%202025-08-19%20at%2006.07.24_16bb826f.jpg)
-
-Add more screenshots or animated GIFs demonstrating auth flows, message sending, and Swagger UI.
 
 ---
 
